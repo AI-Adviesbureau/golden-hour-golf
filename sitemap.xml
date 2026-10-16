@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ai-adviesbureau.github.io/golden-hour-golf/</loc>
+    <lastmod>2026-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://ai-adviesbureau.github.io/golden-hour-golf/support.html</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://ai-adviesbureau.github.io/golden-hour-golf/support-nl.html"/>
+  </url>
+  <url>
+    <loc>https://ai-adviesbureau.github.io/golden-hour-golf/support-nl.html</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ai-adviesbureau.github.io/golden-hour-golf/support.html"/>
+  </url>
+  <url>
+    <loc>https://ai-adviesbureau.github.io/golden-hour-golf/privacy.html</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://ai-adviesbureau.github.io/golden-hour-golf/privacy-nl.html"/>
+  </url>
+  <url>
+    <loc>https://ai-adviesbureau.github.io/golden-hour-golf/privacy-nl.html</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ai-adviesbureau.github.io/golden-hour-golf/privacy.html"/>
+  </url>
+</urlset>

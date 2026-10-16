@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ai-adviesbureau.github.io/golden-hour-golf/sitemap.xml
