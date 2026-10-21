@@ -121,7 +121,7 @@ var SITE = {
     "sp.t1": "Eerlijk spel,",
     "sp.t2": "geen kleine lettertjes",
     "sp.a.h": "Geen reclame, geen tracking",
-    "sp.a.p": "Geen advertenties, geen analytics, geen account. We verzamelen helemaal niets. Je voortgang blijft op je iPhone.",
+    "sp.a.p": "Geen advertenties, geen account, geen persoonsgegevens. Alleen anonieme gebruiksstatistieken, die je kunt uitzetten. Je voortgang blijft op je iPhone.",
     "sp.b.h": "Speelt offline",
     "sp.b.p": "Snel spelen, carrière en toernooien werken zonder verbinding. Game Center haalt in zodra je weer online bent.",
     "sp.c.h": "Zes talen",
